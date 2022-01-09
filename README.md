@@ -7,7 +7,7 @@ I'm **Abdallah Ahmed** (AKA **xUser5000**). I'm a sophomore _CS Student_, _Compe
 - 🔭 I was a successful participant at [**Google Summer of Code**](https://summerofcode.withgoogle.com/) 2021 [**@Joplin**](https://github.com/joplin).
 - 🌱 I competed in the Africa & Arab Collegiate Programming Championship (ACPC) 2021.
 - 😄 I'm currently studying [**CS-537: Introduction to Operating Systems**](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) from the University of Wisconsin, Madison.
-- ⚡ I enjoy Chess, Football, and watching [**Hunter X Hunter**](https://www.imdb.com/title/tt2098220/).
+- ⚡ I enjoy Chess, Football, and Anime (specially [**Hunter X Hunter**](https://www.imdb.com/title/tt2098220/)).
 
 ## Programming Skills
 - JavaScript, TypeScript, React, Node.js, Express.js, MongoDB
