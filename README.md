@@ -1,7 +1,7 @@
 [![MasterHead](https://i.ibb.co/zhz8CQV/github-banner.png)](https://github.com/xUser5000)
 
 ## Hi 👋
-I'm **Abdallah Ahmed** (AKA **xUser5000**). I'm a sophomore _CS Student_, _Competitive Programmer_, and _Software Developer_. I love to solve problems, build cool projects, and share my knowledge with others.
+I'm **Abdallah Ahmed** (AKA **xUser5000**). I'm a sophomore _CS Student_, _Competitive Programmer_, and _Software Developer_. I love to solve problems, build cool projects, and share my knowledge with my fellows.
 
 ## Here's some facts about me
 - 🔭 I was a successful participant at [**Google Summer of Code**](https://summerofcode.withgoogle.com/) 2021 [**@Joplin**](https://github.com/joplin).
@@ -10,8 +10,8 @@ I'm **Abdallah Ahmed** (AKA **xUser5000**). I'm a sophomore _CS Student_, _Compe
 - ⚡ I enjoy Chess, Football, and Anime (specially [**Hunter X Hunter**](https://www.imdb.com/title/tt2098220/)).
 
 ## Programming Skills
-- JavaScript, TypeScript, React, Node.js, Express.js, MongoDB
-- Java, C++, OOP, Design Patterns
+- JavaScript, TypeScript, Node.js, Express.js
+- Java, C++, OOP
 - Data Structures, Algorithms, Competitive Programming
 
 ## Developer Tools
