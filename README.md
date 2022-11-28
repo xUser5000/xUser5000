@@ -1,5 +1,3 @@
-[![MasterHead](https://i.ibb.co/zhz8CQV/github-banner.png)](https://github.com/xUser5000)
-
 ## Hi 👋
 I'm **Abdallah Ahmed** (AKA **xUser5000**). I'm a junior _CS Student_, _Competitive Programmer_, and _Software Developer_. I love to solve problems, build cool projects, and share my knowledge with my fellows.
 
