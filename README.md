@@ -25,9 +25,6 @@ I'm **Abdallah Ahmed** (AKA **xUser5000**). I'm a junior _CS Student_, _Competit
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xUser5000)
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AbdallahAhmedRabi3/)
 
-## Some stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xUser5000)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **xUser5000/xUser5000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
