@@ -2,10 +2,11 @@
 I'm **Abdallah Ahmed** (AKA **xUser5000**). I'm a junior _CS Student_, _Competitive Programmer_, and _Software Developer_. I love to solve problems, build cool projects, and share my knowledge with my fellows.
 
 ## Here are some facts about me
-- 🔭 I was a successful participant at [**Google Summer of Code**](https://summerofcode.withgoogle.com/) 2021 [**@Joplin**](https://github.com/joplin).
-- 🌱 I competed in the Africa & Arab Collegiate Programming Championship (ACPC) 2021 & 2022.
-- 😄 I'm currently studying [**CMU 15-445/645: Database Systems**](https://15445.courses.cs.cmu.edu/fall2022/).
-- ⚡ I enjoy Chess, Football, and Anime (specially [**Hunter X Hunter**](https://www.imdb.com/title/tt2098220/)).
+- I was a successful participant at [**Google Summer of Code**](https://summerofcode.withgoogle.com/) 2021 [**@Joplin**](https://github.com/joplin).
+- I competed in the Africa & Arab Collegiate Programming Championship (ACPC) 2021 & 2022.
+- I was a Software Engineering Intern at Microsoft Egypt in 2023.
+- I'm currently studying [**CMU 15-445/645: Database Systems**](https://15445.courses.cs.cmu.edu/fall2022/).
+- I enjoy Chess, Football, and Anime (especially [**Hunter X Hunter**](https://www.imdb.com/title/tt2098220/)).
 
 ## Programming Skills
 - JavaScript, TypeScript, Node.js, Express.js
