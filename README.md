@@ -1,5 +1,5 @@
 ## Hi 👋
-I'm **Abdallah Ahmed** (AKA **xUser5000**). I'm a junior _CS Student_, _Competitive Programmer_, and _Software Developer_. I love to solve problems, build cool projects, and share my knowledge with my fellows.
+I'm **Abdallah Ahmed** (AKA **xUser5000**). I'm a senior _CS Student_, _Competitive Programmer_, and _Software Developer_. I love to solve problems, build cool projects, and share my knowledge with my fellows.
 
 ## Here are some facts about me
 - I was a Software Engineering Intern at Microsoft Egypt in 2023.
