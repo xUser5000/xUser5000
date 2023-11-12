@@ -5,7 +5,7 @@ I'm **Abdallah Ahmed** (AKA **xUser5000**). I'm a senior _CS Student_, _Competit
 - I was a Software Engineering Intern at Microsoft Egypt in 2023.
 - I was a successful participant at [**Google Summer of Code**](https://summerofcode.withgoogle.com/) 2021 [**@Joplin**](https://github.com/joplin).
 - I competed in the Africa & Arab Collegiate Programming Championship (ACPC) 2021 & 2022.
-- I'm currently studying [**CMU 15-445/645: Database Systems**](https://15445.courses.cs.cmu.edu/fall2022/).
+- I'm currently studying Andrew Tanenbaum's [**Computer Networks**](https://www.amazon.com/Computer-Networks-5th-Andrew-Tanenbaum/dp/0132126958).
 - I enjoy Chess, Football, and Anime (especially [**Hunter X Hunter**](https://www.imdb.com/title/tt2098220/)).
 
 ## Programming Skills
